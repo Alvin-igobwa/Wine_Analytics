@@ -1,0 +1,115 @@
+"id","name","variety","brand","country","region","flavor","price","rating","abv"
+1,"Louis Jadot Puligny-Montrachet","Chardonnay","Louis Jadot","France","Burgundy","Fruity","$59.99",5.0,13.0
+2,"Jermann Pinot Grigio","Pinot Grigio","Jermann","Italy","Friuli Venezia Giulia","Fruity","$29.99",5.0,12.5
+3,"Marolo Moscato Grappa","Moscato","Marolo","Italy","Moscato D'Asti","Sweet","$49.99",4.2,42.0
+4,"Duckhorn 3 Palms Merlot 2012","Merlot","Duckhorn","USA","Napa Valley","Fruity","$89.99",4.4,14.5
+5,"Matela Crljenak kastelanski 2017","Zinfandel","Matela","Croatia","Dalmatian Coast","Sweet","$34.00",4.0,15.0
+6,"Mozelle Riesling","Riesling","Mozelle","Germany","Mosel","Semi Sweet","$12.99",4.8,9.5
+7,"Far Niente Chardonnay","Chardonnay","Far Niente","USA","Napa Valley","Citrus","$52.97",5.0,14.3
+8,"Duckhorn Chardonnay 2018","Chardonnay","Duckhorn","USA","Napa Valley","Peach","$26.97",4.7,14.1
+9,"Charles Orban Cuvee Roger Daltrey","Champagne","Charles Orban","France","Champagne","Apricot","$164.99",5.0,12.0
+10,"De Venoge Princes Rose","Sparkling","De Venoge","France","Champagne","Strawberry","$99.99",4.0,12.0
+11,"De Venoge Cordon Bleu Rose Brut","Champagne","De Venoge","France","Champagne","Floral","$54.99",5.0,12.0
+12,"Tsarine Brut Rose NV","Champagne","Tsarine","France","Champagne","Apple","$64.99",4.6,12.0
+13,"Laudato Pinot Grigio","Pinot Grigio","Laudato","Italy","Veneto","Citrus","$14.99",4.5,12.0
+14,"Borrasca Prosecco Docg","Prosecco","Borrasca","Italy","Veneto","Pear","$14.99",4.7,11.0
+15,"Renieri Brunello Di Montalcino","Sangiovese","Renieri","Italy","Tuscany","Cedar","$99.99",4.3,14.5
+16,"Veuve Clicquot Yellow Label NV","Sparkling","Veuve Clicquot Ponsardin","France","Champagne","Citrus","$65.99",3.8,12.0
+17,"Quinta das Carvalhas Touriga Nacional","Touriga Nacional","Quinta das Carvalhas","Portugal","Douro","Chocolate","$19.99",4.5,14.0
+18,"Porto Valdouro Rose","Rose Port","Valdouro","Portugal","Douro","Raspberry","$16.99",4.6,19.5
+19,"Marquez De Murrieta Castillo Ygay","Tempranillo","Marques De Murrieta","Spain","Rioja","Fruity","$134.97",5.0,14.0
+20,"Renieri Brunello Di Montalcino 2015","Sangiovese","Renieri","Italy","Tuscany","Cedar","$99.99",4.3,14.5
+21,"Unanime Malbec","Malbec","Mascota","Argentina","Mendoza","Plum","$24.99",4.6,14.0
+22,"Klein Constantia Vin de Constance 2014","Moscato","Klein Constantia","South Africa","Constantia","Sweet","$94.99",5.0,14.2
+23,"Moone Tsai Chardonnay Napa 2017","Chardonnay","Bald Mountain","USA","Napa Valley","Pear","$84.99",5.0,14.7
+24,"Chappellet Cabernet Sauvignon Napa Signature 2018","Cabernet Sauvignon","Chappellet","USA","Napa Valley","Chocolate","$69.99",4.5,14.5
+25,"Kosta Browne Pinot Noir Santa Rita Hills 2017","Pinot Noir","Kosta Browne","USA","Santa Rita Hills","Cherry","$109.99",5.0,13.5
+26,"Valserrano Rioja Reserva 2015","Tempranillo","Valserrano","Spain","Rioja","Cherry","$26.99",4.4,14.5
+27,"Artadi Rioja Vina El Pison 2017","Tempranillo","Artadi","Spain","Rioja","Orange","$269.99",5.0,14.0
+28,"Chateau Mouton Rothschild Pauillac 2016","Bordeaux Red Blend","Chateau Mouton Rothschild","France","Bordeaux","Raspberry","$899.97",5.0,13.0
+29,"Prophecy Pinot Grigio","Pinot Grigio","Prophecy","Italy","Veneto","Citrus","$9.99",5.0,12.5
+30,"Macchia Zinfandel Mischievous Lodi 2018","Zinfandel","Macchia","USA","Lodi","Blackberry","$24.99",4.6,15.5
+31,"Gerd Anselmann Pfalz Kabinett","Riesling","Gerd Anselmann","Germany","Pfalz","Floral","$16.99",4.8,10.5
+32,"Dr Heidemanns Bernkastel Badstube Riesling 2018","Riesling","Dr Heidemann-Bergweiler","Germany","Mosel","Honey","$39.99",4.9,9.0
+33,"Domdechant Werner Domdechaney Dry GG 2017","Riesling","Domdechant Weiner","Germany","Rheingau","Apricot","$59.99",5.0,12.5
+34,"Dr Heidemanns Eiswein Polar Bear","Riesling","Dr Heidemann-Bergweiller","Germany","Rheinhessen","Honey","$52.99",0.0,9.0
+35,"Hall Ranch Zinafandel Paso Robles 2018","Zinfandel","Hall Ranch","USA","Paso Robles","Dark Fruit","$19.99",4.2,15.5
+36,"The Fugitive Red Dry Creek Valley","Zinfandel","The Fugitive","USA","Sonoma Valley","Blackberry","$29.99",4.3,14.5
+37,"Dr Thanisch Bernkasteler Doctor Spatlese","Riesling","Dr Thanisch","Germany","Mosel","Peach","$67.99",5.0,8.5
+38,"St Nikolaus Wehlener Sonnenuhr Riesling 2015","Riesling","St Nikolaus","Germany","Mosel","Apricot","$64.99",0.0,7.5
+39,"Pico Cuadro Original Ribera del Duero 2016","Tempranillo","Pico Cuadro","Spain","Ribera del Duero","Black Fruit","$19.99",5.0,14.5
+40,"Uro Toro Tinta De Toro 2014","Tempranillo","Uro","Spain","Toro","Black Fruit","$39.99",4.0,14.5
+41,"Liberalia Toro Cinco 2008","Tempranillo","Liberalia","Spain","Toro","Blackberry","$74.99",5.0,14.0
+42,"Casado Morales Rioja Seleccion Privada 2011","Tempranillo","Casado Morales","Spain","Rioja","Black Cherry","$69.99",4.8,13.8
+43,"Tenuta di Renieri Chianti Classico 2018","Sangiovese","Tenuta di Renieri","Italy","Tuscany","Cherry","$19.99",4.3,14.0
+44,"Harvester Cabernet Sauvignon Paso Robles","Cabernet Sauvignon","Harvester","USA","Paso Robles","Black Cherry","$19.99",4.3,13.5
+45,"Destino Fifth Empire Douro Red","Red Blend","Destino","Portugal","Douro","Black Cherry","$16.99",4.4,14.0
+46,"Quinta das Carvalhas Ruby Port Reserva Decanter","Reserve Ruby Port","Quinta das Carvalhas","Portugal","Douro","Fruity","$39.99",4.8,20.0
+47,"Cais da Ribeira Douro Red Reserva Port Barrel 2015","Red Blend","Cais da Ribeira","Portugal","Douro","Dark Fruit","$18.99",5.0,14.0
+48,"Quinta das Carvalhas Memories","Port","Quinta das Carvalhas","Portugal","Douro","Honey","$2,499.99",5.0,21.0
+49,"Ben Marco Expresivo Mendoza 2016","Malbec","Ben Marco","Argentina","Mendoza","Raspberry","$24.99",4.8,13.5
+50,"Cruz Alta Cabernet Grand Reserve","Cabernet Sauvgnon","Cruz Alta","Argentina","Mendoza","Raspberry","$14.99",4.5,13.5
+51,"Atrevida Chardonnay Unoaked 2019","Chardonnay","Atrevida","Argentina","Mendoza","Green Apple","$13.99",3.9,13.5
+52,"Finca Flichman Cabernet Misterio","Cabernet Sauvignon","Flichman","Argentina","Mendoza","Blackberry","$9.99",5.0,13.5
+53,"Vina Cobos Reptil Cabernet Sauvignon","Cabernet Sauvignon","Vina Cobos","Argentina","Mendoza","Red Fruit","$49.99",5.0,14.5
+54,"Vina Cobos Bramare Malbec Lujan de Cuyo 2018","Malbec","Vina Cobos","Argentina","Mendoza","Plum","$31.99",5.0,14.5
+55,"Duque de Viseu Dao Tinto","Red Blend","Duque de Viseu","Portugal","Dao","Red Fruit","$14.99",5.0,12.5
+56,"Neethlinghof Pinotage","Pinotage","Neethlingshof","South Africa","Stellenbosch","Plum","$15.99",4.4,14.5
+57,"Spier Chardonnay","Chardonnay","Spier","South Africa","Stellenbosch","Melon","$9.49",4.6,13.5
+58,"Spier Rose","Rose","Spier","South Africa","Stellenbosch","Strawberry","$9.99",4.1,13.0
+59,"Hands Cabernet Sauvignon","Cabernet Sauvignon","Hands","South Africa","Robertson","Currant","$11.99",4.1,14.5
+60,"Jam Jar Sweet White","Moscato","Jam Jar","South Africa","Western Cape","Apricot","$7.79",4.8,10.0
+61,"De Morgenzon Reserve Chenin Blanc 2018","Chenin Blanc","De Morgenzon","South Africa","Stellenbosch","Pear","$39.99",5.0,14.2
+62,"Chateau Megyer Tokaji Aszu 5 Puttonyos","Tokaji","Chateau Megyer","Hungary","Tokaji","Honey","$54.99",5.0,11.5
+63,"Wagner Vidal Blanc Ice Wine","Ice Wine","Wagner","USA","Finger Lakes","Floral","$29.99",4.5,13.5
+64,"Chateau Miselle Sauternes","Bordeaux Blend","Chateau Miselle","France","Bordeaux","Peach","$19.99",4.4,13.0
+65,"Bougrier V Vouvray","Chenin Blanc","Famille Bougrier","France","Loire","Peach","$14.99",4.5,11.5
+66,"Guy Mousset Cotes du Rhone Reserve","Rhone Blend","Guy Mosset","France","Rhone","Red Berry","$14.99",4.2,14.2
+67,"Le Pre Vaujour Sancerre","Sauvignon Blanc","Le Pre Vaujour","France","Loire","Citrus","$26.99",3.8,12.5
+68,"Martin Ray Synthesis 2018","Cabernet Sauvignon","Martin Ray","USA","Napa Valley","Plum","$54.99",4.9,14.2
+69,"Governors Bay Marlborough Sauvignon Blanc","Sauvignon Blanc","Governors Bay","New Zealand","Malborough","Gooseberry","$12.99",4.4,13.0
+70,"Cupcake Sauvignon Blanc","Sauvignon Blanc","Cupcake","New Zealand","Malborough","Lemon","$7.97",4.0,13.0
+71,"Cliff Point Sauvignon Blanc","Sauvignon Blanc","Cliff Point","New Zealand","Malborough","Grapefruit","$6.99",4.6,13.0
+72,"McBride Sisters Sparkling Brut Rose","Rose","McBride Sisters","New Zealand","Hawkes Bay","Strawberry","$24.99",5.0,13.5
+73,"Rabbit Ranch Pinot Noir","Pinot Noir","Rabbit Ranch","New Zealand","Central Otago","Cherry","$27.99",3.7,13.6
+74,"Grey Rock Sauvignon Blanc","Sauvignon Blanc","Greyrock","New Zealand","Malborough","Tropical","$13.99",4.4,12.5
+75,"Staete Landt Annabel Sauvignon Blanc 2019","Sauvignon Blanc","Staete Landt","New Zealand","Malborough","Lime","$19.99",4.3,13.0
+76,"Moet & Chandon Imperial Brut","Champagne","Moet & Chandon","France","Champagne","Pear","$1,099.99",4.3,12.5
+77,"Moet & Chandon Ice Imperial","Champagne","Moet & Chandon","France","Champagne","Floral","$139.99",4.7,12.0
+78,"Lanson Noble Cuvee Brut 2002","Champagne","Noble Cuvee","France","Champagne","Green Apple","$139.99",5.0,12.5
+79,"Seastone Rose","Rose","Seastone","Portugal","Vinho Verde","Fruity","$7.99",4.2,10.0
+80,"Praia Vinho Verde","Vinho Verde","Praia","Portugal","Vinho Verde","Peach","$13.99",4.8,10.0
+81,"Martinez Fine Ruby","Port","Martinez","Portugal","Douro","Berry","$14.99",4.7,19.0
+82,"Donnachiara Aglianico 2019","Aglianico","Donnachiara","Italy","Campagnia","Citrus","$17.99",4.7,13.0
+83,"Marchese di Borgosole Salice Salentino Riserva","Negroamaro","Marchese di Borgosole","Italy","Apulia","Cherry","$12.99",4.1,13.0
+84,"Gattavecchi Vernaccia Gimignano","Vernaccia","Gattavecchi","Italy","Tuscany","Floral","$15.99",4.5,12.5
+85,"Silver Ghost Cabernet Sauvignon Napa Valley 2017","Cabernet Sauvignon","Silver Ghost","USA","Napa Valley","Dark Berry","$39.99",4.6,14.8
+86,"Martin Ray Cabernet Sauvignon Stags Leap 2018","Cabernet Sauvignon","Martin Ray","USA","Napa Valley","Plum","$69.99",4.7,14.9
+87,"Monticello Vineyards Merlot Estate Oak Knoll","Merlot","Monticello","USA","Napa Valley","Red Fruit","$34.99",4.6,14.1
+88,"D'Arenberg Cabernet Coppermine Road 2014","Cabernet Sauvignon","D'Arenberg","Australia","McLaren Vale","Currant","$54.99",4.5,14.1
+89,"D'Arenberg GSM Ironstone Pressings 2013","Rhone Blend","D'Arenberg","Australia","McLaren Vale","Blackberry","$56.99",0.0,14.5
+90,"D'Arenberg Laughing Magpie Shiraz Viognier 2015","Syrah","D'Arenberg","Australia","McLaren Vale","Berry","$21.99",5.0,14.5
+91,"Almodi Tierra Alta Petit Red 2015","Red Blend","Almodi","Spain","Catalunya","Blackberry","$9.99",3.9,14.5
+92,"San Gegorio Las 75 Vendimias 2018","Tempranillo","San Gregorio","Spain","Calatayud","Dark Berry","$16.99",4.4,15.0
+93,"Val Do Sosego Albarino Rias Baixas 2019","Albarino","Val Do Sosego","Spain","Rias Baixas","Citrus","$16.99",4.5,12.0
+94,"Escarpment Kupe Martinborough Pinot Noir 2018","Pinot Noir","Kupe","New Zealand","Martinborough","Cherry","$85.99",4.0,13.5
+95,"Achaval Ferrer Malbec Altamira 2014","Malbec","Achaval Ferrer","Argentina","Mendoza","Blackberry","$124.99",5.0,14.0
+96,"D'Arenberg Marsanne Viognier Hermit Crab 2018","Rhone White Blend","D'Arenberg","Australia","McLaren Vale","Melon","$14.99",3.9,13.0
+97,"Tsarine Cuvee Adriana","Champagne","Tsarine","France","Champagne","Lemon","$94.99",4.5,12.0
+98,"Mailly L'Intemporelle Rose Grand Cru","Champagne","Mailly","France","Champagne","Raspberry","$139.99",5.0,12.0
+99,"Oakville East Exposure Cabernet Sauvignon 2014","Cabernet Sauvignon","Oakville East","USA","Napa Valley","Blueberry","$89.99",4.4,14.5
+100,"Terralsole Brunello Riserva 2007","Sangiovese","Terralsole","Italy","Tuscany","Plum","$89.99",4.7,14.0
+101,"Krug Rose","Champagne","Krug","France","Champagne","Strawberry","$299.97",5.0,12.5
+102,"Georges Veselle Perfection Rose","Champagne","Georges Veselle","France","Champagne","Citrus","$67.99",4.5,12.0
+103,"Sheridan Mystique Yakima 2018","Merlot","Sheridan","USA","Yakima Valley","Cherry","$34.99",4.6,14.1
+104,"Amuse Bouche Red Napa 2010","Merlot","Amuse Bouche","USA","Napa Valley","Black Cherry","$329.99",0.0,14.6
+105,"Barnett Merlot Spring Mountain","Merlot","Barnett","USA","Napa Valley","Cherry","$69.99",5.0,14.5
+106,"Asua Rioja Crianza 2016","Tempranillo","Asua","Spain","Rioja","Black Fruit","$15.99",4.3,14.5
+107,"Grao Vasco Dao Tinto","Red Blend","Grao Vasco","Portugal","Dao","Berry","$9.99",4.4,12.0
+108,"Leone D'Oro Vino Nobile Di Montepulciano 2015","Sangiovese","Leone D'Oro","Italy","Tuscany","Raspberry","$21.99",3.8,13.5
+109,"Tesoro della Regina Pinot Grigio 2019","Pinot Grigio","Tesoro della Regina","Italy","Val d'Adige","Apple","$18.99",4.6,12.5
+110,"Casalino Pinot Grigio","Pinot Grigio","Casalino","Italy","Veneto","Grapefruit","$9.99",3.3,12.5
+111,"Sobon Estate Zinfandel Rocky Top 2018","Zinfandel","Sobon","USA","Sierra Foothills","Blackberry","$19.99",4.4,14.5
+112,"Bottega Oro Prosecco","Prosecco","Bottega Oro","Italy","Veneto","Green Apple","$29.99",5.0,11.0
+113,"Realuna Prosecco","Prosecco","Realuna","Italy","Veneto","Apple","$15.99",4.4,11.5
+114,"Rebuli Prosecco","Prosecco","Rebuli","Italy","Veneto","Pear","$29.99",5.0,11.0
